@@ -1,8 +1,19 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: purple;
+  background-color: black 10%;
+
 }
 
 a {
   color: #00B7FF;
+}
+p {
+  border-style: solid;
+  border-color: black;
+
+}
+li{
+  border-style: dotted;
 }
